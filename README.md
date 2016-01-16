@@ -1,2 +1,2 @@
 # LASCON VI
-Latin American School of Computational Neuroscience - sixth edition
+Latin American School of Computational Neuroscience - Sixth edition
